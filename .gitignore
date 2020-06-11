@@ -1,0 +1,10 @@
+*.iml
+.idea
+target/
+local-config.yml
+.DS_Store
+**/.settings/
+*/target/
+.classpath
+.project
+override.yml
